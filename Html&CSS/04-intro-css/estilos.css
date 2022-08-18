@@ -1,0 +1,28 @@
+h1 {
+  color:red;
+  font-size: 2.5rem;
+}
+
+/*Probando probando*/
+p{
+  color:blue;
+  font-size: 1.5rem;
+}
+
+#primera-noticia{
+  color:green;
+  font-size: 12px;
+}
+
+#segunda-noticia {
+  color:purple
+}
+
+.encabezado {
+  font-size: 24pt;
+  text-transform: capitalize;
+}
+
+* {
+  color:yellow;
+}
